@@ -125,9 +125,6 @@ Production-grade recruitment platform built using a 7-microservice architecture.
 <img src="https://github-readme-stats.vercel.app/api?username=behonestabhi&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behonestabhi&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=behonestabhi&theme=tokyonight"/>
